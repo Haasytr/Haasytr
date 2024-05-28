@@ -18,9 +18,8 @@
 <ul>
 
  ![React](https://skillicons.dev/icons?i=react)
- ![NodeJS](https://skillicons.dev/icons?i=node)
+ ![NodeJS](https://skillicons.dev/icons?i=nodejs)
  ![NextJS](https://skillicons.dev/icons?i=next)
- 
  ![Typescript](https://skillicons.dev/icons?i=ts)
 
 
@@ -28,4 +27,4 @@
 
  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haasytr&layout=compact&theme=dracula&hide_border=true" /></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F549E5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF66E00&height=120&section=header"/>
