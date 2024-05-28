@@ -2,8 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF66E00&height=120&section=header"/>
 
    ![welcome gif](welcome.gif)
-   <h3>Haastyr</h3>
-<!--    <a target="_blank" href="[https://www.linkedin.com/in/j%C3%BAlio-salem-281785269/](https://github.com/Haasytr)"><img src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://avatars.githubusercontent.com/u/45666137?s=400&v=4)" /></a> -->
+   <h3>Vínicius Oliveira</h3>
+    <a target="_blank" href="https://github.com/Haasytr"><img style="border-radius: 50%" src="https://media.licdn.com/dms/image/D4D03AQGV3CmBcnvgTg/profile-displayphoto-shrink_400_400/0/1715899039009?e=1722470400&v=beta&t=qrCgxMV0MvsGPWcCGwaeFaT9tv3HtotNFgg_TqWol3A" /></a>
    
 </div>
 
@@ -27,4 +27,4 @@
 
  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haasytr&layout=compact&theme=dracula&hide_border=true" /></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF66E00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF66E00&height=120&section=footer"/>
